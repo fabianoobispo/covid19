@@ -6,15 +6,6 @@
 
 ### [See live](https://covid19.data.eti.br)
 
-## Next steps
-- [ ] Portuguese translation
-- [ ] Add continent stats
-- [ ] Other languages translations
-- [ ] Add detailed data of some countries
-- [ ] Implement a scraper to get data from [Brazil official page about coronavirus](http://plataforma.saude.gov.br/novocoronavirus/#COVID-19-brazil)
-- [ ] Add basic informations about prevention and related things
-- [ ] Add other graphics/tables to show data
-
 ## Tech Stack
 -  [ReactJS](https://github.com/facebook/react)
 -  [React Router](https://github.com/ReactTraining/react-router)
@@ -34,9 +25,9 @@
 ## How to run
 
 ```bash
-$ git clone https://github.com/pabloVinicius/covid-19-dashboard.git
+$ git clone https://github.com/fabianoobispo/covid19
 
-$ cd covid-19-dashboard
+$ cd covid19
 
 $ yarn
 

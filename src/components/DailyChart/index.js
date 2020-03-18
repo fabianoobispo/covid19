@@ -113,9 +113,9 @@ const MyResponsiveLine = () => {
         </Container>
       </Scroller>
       {isMobile ? (
-        <Tip>Swipe horizontally to see data. Click for details</Tip>
+        <Tip>Deslize horizontalmente para ver os dados. Clique para detalhes</Tip>
       ) : (
-        <Tip>Hover for details</Tip>
+        <Tip>Passe o mouse para obter detalhes</Tip>
       )}
     </Wrapper>
   );
